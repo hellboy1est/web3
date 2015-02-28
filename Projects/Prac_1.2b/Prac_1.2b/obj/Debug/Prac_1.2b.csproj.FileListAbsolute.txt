@@ -1,0 +1,6 @@
+C:\Users\Rl\Documents\Visual Studio 2013\Projects\Prac_1.2b\Prac_1.2b\bin\Prac_1.2b.dll.config
+C:\Users\Rl\Documents\Visual Studio 2013\Projects\Prac_1.2b\Prac_1.2b\bin\Prac_1.2b.dll
+C:\Users\Rl\Documents\Visual Studio 2013\Projects\Prac_1.2b\Prac_1.2b\bin\Prac_1.2b.pdb
+C:\Users\Rl\Documents\Visual Studio 2013\Projects\Prac_1.2b\Prac_1.2b\obj\Debug\Prac_1.2b.csprojResolveAssemblyReference.cache
+C:\Users\Rl\Documents\Visual Studio 2013\Projects\Prac_1.2b\Prac_1.2b\obj\Debug\Prac_1.2b.dll
+C:\Users\Rl\Documents\Visual Studio 2013\Projects\Prac_1.2b\Prac_1.2b\obj\Debug\Prac_1.2b.pdb
